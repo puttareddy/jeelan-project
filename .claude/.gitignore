@@ -1,0 +1,6 @@
+# InfiniOS runtime files (speckit projects)
+settings.json
+assistant-settings.json
+assistant-conversations.db
+assistant-conversations.db-wal
+assistant-conversations.db-shm

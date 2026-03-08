@@ -1,0 +1,5 @@
+{
+  "status": "error",
+  "timestamp": "2026-03-08T18:28:50.571790+00:00",
+  "error": "Claude completed the session but did not write any spec files. Check server logs for 'Zeus:' and 'Zeus tool:' entries to see what happened. This may indicate an authentication issue with the Claude CLI."
+}

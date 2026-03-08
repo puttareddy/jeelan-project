@@ -1,0 +1,15 @@
+{
+  "sandbox": {
+    "enabled": false
+  },
+  "permissions": {
+    "defaultMode": "bypassPermissions",
+    "allow": [
+      "Write(/Users/puttaiaharugunta/codebase/infi/project-auth/specs/main/**)",
+      "Read(/Users/puttaiaharugunta/codebase/infi/project-auth/**)",
+      "Read(/Users/puttaiaharugunta/codebase/infi/single-page-express/**)",
+      "Glob(./**)",
+      "Grep(./**)"
+    ]
+  }
+}
